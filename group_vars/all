@@ -1,9 +1,9 @@
 user:
-    name: pigmonkey
+    name: panu
     uid: 1000
-    group: pigmonkey
+    group: panu
     shell: /usr/bin/zsh
-    email:  peter@havenaut.net
+    email:  panu@panuel.de
     log:
         dir: log
         rotate: 8
