@@ -1,6 +1,6 @@
 user:
     name: panu
-    uid: 1000
+    uid: 2000
     group: panu
     shell: /usr/bin/zsh
     email:  panu@panuel.de
